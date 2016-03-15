@@ -3,3 +3,4 @@
 build/
 .gradle/
 typings/
+node_modules/
